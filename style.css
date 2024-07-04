@@ -1,0 +1,25 @@
+body{
+    background-image: url("entertaiment-08.jpg");
+    background-attachment: fixed;
+    background-attachment: scroll;
+
+}
+
+
+div{
+    background-color: rgba(235, 27, 27, 0.534);
+    background-image: url("css.png");
+    background-size: 150px 150px;
+    /* background-repeat: repeat-x;
+    background-repeat: repeat-y; */
+    background-repeat: no-repeat;
+
+    background-position:top left;
+    background-position:top right;
+    background-position:top left;
+    background-position:left center;
+    background-position: 50px 25px;
+
+    /* Shorthand */
+    background:#ee5253 url("css.png") no-repeat ce;
+}
